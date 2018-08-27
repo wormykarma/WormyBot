@@ -1,0 +1,23 @@
+{
+  "name": "wormybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Paginton",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "giphy-api": "^1.2.7",
+    "opusscript": "0.0.6",
+    "request": "^2.88.0",
+    "text-to-mp3": "^1.0.4",
+    "youtube-info": "^1.2.0",
+    "ytdl-core": "^0.24.0"
+  }
+}
